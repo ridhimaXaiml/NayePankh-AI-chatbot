@@ -1,1 +1,63 @@
+#NayePankh-AI-Chatbot/
+Libraries used
+-datetime
+Screenshot
+-"C:\Users\ridhi\Downloads\chatbot.jpeg"
+.gitignore
+__pycache__/
+*.pyc
+.env
+.vscode/
+Technology Used
+-python
 
+
+
+
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository
+
+2. Open project folder
+
+3. Run the chatbot
+
+
+---
+
+## 💬 Sample Conversation
+
+**User:** What is NayePankh Foundation?
+
+**Bot:** NayePankh Foundation is a non-profit NGO working for social welfare.
+
+---
+
+**User:** How can I volunteer?
+
+**Bot:** You can join as a volunteer through the NGO website.
+
+---
+
+## 🚀 Future Improvements
+
+- Add Machine Learning based intent detection
+- Use NLP libraries like NLTK/spaCy
+- Add voice assistant support
+- Create web interface using Flask
+- Connect with database
+
+---
+
+## 👩‍💻 Author
+
+**Ridhima Singh**  
+B.Tech CSE (AI & ML)
+
+---
+
+## 📌 Project Purpose
+
+This project was developed to explore the application of Artificial Intelligence in NGO communication and create a helpful virtual assistant.
