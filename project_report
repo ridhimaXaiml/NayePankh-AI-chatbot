@@ -12,35 +12,6 @@ Technology Used
 -python
 
 
-
-
----
-
-## ⚙️ How to Run
-
-1. Clone the repository
-
-2. Open project folder
-
-3. Run the chatbot
-
-
----
-
-## 💬 Sample Conversation
-
-**User:** What is NayePankh Foundation?
-
-**Bot:** NayePankh Foundation is a non-profit NGO working for social welfare.
-
----
-
-**User:** How can I volunteer?
-
-**Bot:** You can join as a volunteer through the NGO website.
-
----
-
 ## 🚀 Future Improvements
 
 - Add Machine Learning based intent detection
